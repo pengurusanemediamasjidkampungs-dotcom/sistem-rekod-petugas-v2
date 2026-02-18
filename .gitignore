@@ -1,0 +1,25 @@
+# Python bytecode (Fail sampah selepas run skrip)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fail Log (Supaya bot.log tidak di-push ke GitHub)
+*.log
+nohup.out
+
+# Fail Persekitaran (Jika anda guna .env di masa depan)
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Fail Sistem (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Fail Data CSV (PILIHAN)
+# Jika anda mahu simpan rekod hanya di PC Ubuntu secara offline 
+# dan TIDAK mahu ia muncul di GitHub, buang tanda # di bawah:
+# rekod_imam.csv
+# rekod_muazzin.csv
