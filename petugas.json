@@ -1,0 +1,17 @@
+{
+  "pentadbir": [
+    {"id": "FAUZIDIN", "jawatan": "NAZIR", "nama": "TN. HJ FAUZI DIN"}
+  ],
+  "imam": [
+    {"id": "AZAHARI", "jawatan": "IMAM 1", "nama": "AZAHARI"},
+    {"id": "NAUDI", "jawatan": "IMAM 2", "nama": "NAUDI HAQQI"},
+    {"id": "AIMAN", "jawatan": "IMAM 3", "nama": "MUHAMMAD AIMAN"},
+    {"id": "FAIZ", "jawatan": "IMAM 4", "nama": "FAIZ MUFASSIR"}
+  ],
+  "bilal": [
+    {"id": "NORFAIZAL", "jawatan": "BILAL 1", "nama": "NORFAIZAL"},
+    {"id": "SYAMIM", "jawatan": "BILAL 2", "nama": "SYAMIM FIKRI"},
+    {"id": "FAUZI", "jawatan": "BILAL 3", "nama": "FAUZI ROSLAN"},
+    {"id": "MAKSOM", "jawatan": "BILAL 4", "nama": "HJ. MAKSOM"}
+  ]
+}
